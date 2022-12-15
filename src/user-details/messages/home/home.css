@@ -1,0 +1,8 @@
+.chat_box {
+    position: absolute;
+    bottom: 20px;
+    left: 44%;
+}
+.user_list {
+    margin-top: 16em;
+}

@@ -1,0 +1,30 @@
+#main {
+    position: relative;
+    display: flex;
+  }
+
+  .home-icon {
+    position: absolute;
+    right: 100px;
+  }
+
+  .pencil-icon {
+    position: absolute;
+    right: 60px;
+  }
+
+  .sort-icon {
+    position: absolute;
+    right: 40px;
+  }
+
+  .menu-icon {
+    position: absolute;
+    right: 20px;
+  }
+
+  i {
+    color: #D9E021;
+  }
+
+

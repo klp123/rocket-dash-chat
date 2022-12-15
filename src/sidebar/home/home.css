@@ -1,0 +1,23 @@
+.sidebar-main-div {
+    background-color: #004d44;
+    height: 100vh;
+    width: 22%;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding: 4px;
+}
+.home_menu, .omnichannel {
+    padding: 35px;
+    border-bottom: 1px solid black;
+}
+
+.user_list {
+    padding: 20px;
+    margin-top: 6em;
+}
+
+.footer {
+    position: absolute;
+    bottom: 20px;
+    left: 1em;
+}

@@ -1,0 +1,22 @@
+.user_detail_main_div {
+    width: 78%;
+}
+.header {
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
+}
+.user_message_div {
+    display: flex;
+}
+.messages_home {
+    width: 60%;
+    height: 100vh;
+    border-right: 1px solid #222;
+}
+.contact_information {
+    width: 40%;
+    margin-top: 18em;
+}
+.user_detail_main_div p {
+    color: #222;
+}
